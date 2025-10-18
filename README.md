@@ -5,6 +5,8 @@ Here is some info about me:
 - 😄 Pronouns: he/him, they/them, any
 - ⚡ Fun fact: I'm a graphic designer turning into front end dev
 
+Profile picture thanks to 42warsaw's Herkules Pierewoj
+
 <!--
 **tsukigomori/tsukigomori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
