@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Here is some info about me:
+- 🌱 I’m currently learning at 42warsaw.pl
+- 😄 Pronouns: he/him, they/them, any
+- ⚡ Fun fact: I'm a graphic designer turning into front end dev
+
 <!--
 **tsukigomori/tsukigomori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
